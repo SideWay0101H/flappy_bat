@@ -1,0 +1,5 @@
+# flappy_bat
+Thông tin:
+Đây là phần cài đặt thư viện cho game không bị lỗi
+Nhớ cài đặt thư viện pip install pygame + cài pyhton ide 3.10 hiện tại  + chạy bằng lệnh py main.py
+
